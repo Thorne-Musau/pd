@@ -1,3 +1,3 @@
 # pd
 
-# A pandas reposiory
+# A pandas repository
